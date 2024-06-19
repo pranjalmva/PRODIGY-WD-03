@@ -57,7 +57,7 @@ A popup window with a message area and "New Game" button is included, likely for
 * <h4>Visual Design:</h4> Consider adding a background image or color scheme to enhance the game's visual appeal.
 * <h4>Button Design:</h4> Style the buttons (".button-option") in your CSS file to make them visually distinct and indicate if a square is occupied.
 * <h4>Functionality:</h4> Implement the game logic in the JavaScript file ("script.js") to handle player turns, win conditions, and display updates.
-* P<h4>opup Functionality:</h4> Connect the popup elements with JavaScript to display messages like "Winner!" or "Tie" and allow restarting the game through the "New Game" button.
+* <h4>Popup Functionality:</h4> Connect the popup elements with JavaScript to display messages like "Winner!" or "Tie" and allow restarting the game through the "New Game" button.
 * Responsiveness:</h4> Test the game on different devices (mobile, tablet) to ensure proper scaling and usability.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
